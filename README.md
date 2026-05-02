@@ -5,7 +5,7 @@ This repository contains our exploration of multiple deep learning approaches fo
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ### `231n/` — ViT Validation & Comparison
 Reproduces the Vision Transformer (ViT) architecture and benchmarks it against CNN baselines.
