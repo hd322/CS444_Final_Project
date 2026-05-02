@@ -83,8 +83,8 @@ For full details on methodology, experiments, and results, please refer to our p
 
 | Name | UIUC NetID |
 |------|------------|
-|      |            |
-|      |            |
+|Hao Dong |     haod6      |
+|  Ziyi Han    |    ziyihan2        |
 |      |            |
 |      |            |
 
