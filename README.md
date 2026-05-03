@@ -89,7 +89,7 @@ For full details on methodology, experiments, and results, please refer to our p
 
 ## 👥 Team Members
 
-| Name | UIUC NetID |
+| Name | NetID |
 |------|------------|
 |Hao Dong |     haod6      |
 |  Ziyi Han    |    ziyihan2        |
