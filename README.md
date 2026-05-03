@@ -75,7 +75,7 @@ python test.py
 ## 📄 Report
 For full details on methodology, experiments, and results, please refer to our project report.
 
-> 📎 *Report link coming soon*
+> 📎 https://github.com/hd322/CS444_Final_Project/blob/main/Project_Report.pdf
 
 ---
 
