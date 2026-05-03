@@ -5,6 +5,14 @@ This repository contains our exploration of multiple deep learning approaches fo
 
 ---
 
+## Library
+All libraries needed for this project is in requirement.txt. To install it, please run
+```
+pip install requirement.txt
+```
+
+---
+
 ## Repository Structure
 
 ### `231n/` — ViT Validation & Comparison
