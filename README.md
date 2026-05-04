@@ -59,7 +59,7 @@ python train_v2.py
 python demo_v2.py
 ```
 
-> 🎥 Demo video: *Coming soon*
+> 🎥 Demo video: (https://github.com/hd322/CS444_Final_Project/releases/tag/v1.0.0)
 
 ---
 
