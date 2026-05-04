@@ -59,9 +59,7 @@ python train_v2.py
 python demo_v2.py
 ```
 
-> 🎥 Demo video:
-> [(demo.png)]
-> (https://github.com/hd322/CS444_Final_Project/releases/tag/v1.0.0)
+> 🎥 Demo video: (./demo.png)(https://github.com/hd322/CS444_Final_Project/releases/tag/v1.0.0)
 
 ---
 
