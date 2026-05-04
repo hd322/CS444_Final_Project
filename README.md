@@ -46,6 +46,10 @@ A real-time ASL letter recognition pipeline built for webcam deployment.
 - Started with a **ResNet-18** classifier trained on Sign MNIST, but webcam prediction performance was limited
 - Replaced with a **MediaPipe + SVM** pipeline, significantly improving real-time accuracy
 - Added a **stop gesture** (open palm / five fingers extended) to trigger letter-to-word translation
+#### UPDATE:
+- In demo_v3.py, we added a DEL_L and DEL_W, which can delete the most recent predicted letter/word.
+- In demo_v4.py, we added SHOW and CLEAR, which can show all cached words as a sentence and clear all cached word in the UI.
+- Also, in demo_v4, we added a gaussian_blur that can only see the part of hands to maintain privacy.
 
 **How to run:**
 ```bash
