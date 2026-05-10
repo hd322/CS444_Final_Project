@@ -67,7 +67,7 @@ python server.py
 
 > 🎥 **Demo Video** (Click the image to download and watch):
 >
-> [![Watch the video](./demo.png)](https://github.com/hd322/CS444_Final_Project/releases/tag/v1.0.0)
+> [![Watch the video](./demo.png)](https://youtu.be/GcPIRCYa2u8)
 
 ---
 
