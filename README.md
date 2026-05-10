@@ -50,6 +50,8 @@ A real-time ASL letter recognition pipeline built for webcam deployment.
 - In demo_v3.py, we added a DEL_L and DEL_W, which can delete the most recent predicted letter/word.
 - In demo_v4.py, we added SHOW and CLEAR, which can show all cached words as a sentence and clear all cached word in the UI.
 - Also, in demo_v4, we added a gaussian_blur that can only see the part of hands to maintain privacy.
+#### 🌟FINAL VERSON:
+- In /mediapipe/server.py, we made our final project as a UI server, with more button to operate!
 
 **How to run:**
 ```bash
@@ -60,7 +62,7 @@ python collect.py
 python train_v2.py
 
 # Step 3: Run the real-time demo
-python demo_v2.py
+python server.py
 ```
 
 > 🎥 **Demo Video** (Click the image to download and watch):
